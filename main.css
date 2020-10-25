@@ -7,6 +7,7 @@ body {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: none;
 }
 #main_div {
   background-color: black;
