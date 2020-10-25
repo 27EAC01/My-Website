@@ -5,6 +5,8 @@ body {
 #head_div {
   background-color: #00b300;
   width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 #main_div {
   background-color: black;
