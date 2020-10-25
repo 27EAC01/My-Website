@@ -1,9 +1,12 @@
 body {
   background-color: powderblue;
+  color: white;
+}
+#head_div {
+  background-color: #00b300;
 }
 #main_div {
   background-color: black;
-  color: white;
   width: 90%;
   padding: 50px;
   margin-left: auto;
