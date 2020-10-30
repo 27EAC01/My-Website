@@ -6,8 +6,8 @@ body {
   background-color: #00b300;
   width: 90%;
   padding: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: none;
+  margin-right: none;
   margin-bottom: none;
   border-radius: 30px;
 }
