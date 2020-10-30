@@ -9,6 +9,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: none;
+  border-radius: 30px;
 }
 #main_div {
   background-color: black;
@@ -17,5 +18,5 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: none;
-  border-radius: 50px;
+  border-radius: 30px;
 }
