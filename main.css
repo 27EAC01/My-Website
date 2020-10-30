@@ -1,6 +1,7 @@
 body {
   background-color: powderblue;
   color: white;
+  font-family: monospace;
 }
 #head_div {
   text-align: center;
