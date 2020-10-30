@@ -5,17 +5,17 @@ body {
 #head_div {
   text-align: center;
   background-color: #00b300;
-  width: 80%;
+  width: 100%;
   padding: 30px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: none;
+  margin-bottom: 5px;
   border-radius: 30px;
 }
 #main_div {
   text-align: center;
   background-color: black;
-  width: 90%;
+  width: 95%;
   padding: 30px;
   margin-left: auto;
   margin-right: auto;
